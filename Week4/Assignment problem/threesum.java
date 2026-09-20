@@ -36,6 +36,10 @@ public class threesum {
                 }
             }
         }
-        return resultList.toArray(new int[resultList.size()][]);
+        int[][] result = new int[resultList.size()][];
+        for (int i = 0; i < resultList.size(); i++) {
+             result[i] = resultList.get(i);
+}
+        return result;
     }
 }
