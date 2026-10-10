@@ -1,0 +1,112 @@
+[33mcommit cf614fc7207a0f494e5602d6b7c6e1817c1a3906[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 34ededd a488cc4
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sat Oct 10 14:39:12 2026 +0530
+
+    Merge branch 'main' of https://github.com/Deepgit07-crypto/Step_semester_3
+
+[33mcommit 34ededd075e3feac73b1ba9ef117aa8d3a4309cb[m
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sat Oct 10 14:37:37 2026 +0530
+
+    Add Week 8 practice and assignment Java problems
+
+[33mcommit a488cc458b642627521d17339e13392f565952e9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c45d601 c174a96
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Wed Oct 7 21:09:33 2026 +0530
+
+    Merge pull request #6 from Deepgit07-crypto/feature/Week7
+    
+    Feature/week7
+
+[33mcommit c174a9652ae250977fc1861a8cfd81de58f31ffc[m[33m ([m[1;31morigin/feature/Week7[m[33m, [m[1;32mfeature/Week7[m[33m)[m
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Wed Oct 7 21:08:10 2026 +0530
+
+    Add Week 7 assignment and practice problems
+
+[33mcommit c43ce5543c177ecd87b3228cd1774423bb8c6a8a[m[33m ([m[1;32mfeature/week5[m[33m)[m
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Wed Oct 7 20:58:10 2026 +0530
+
+    Add Week 7 assignment and practice problems
+
+[33mcommit c45d601a891f74ea87e3220a263e553804c6773a[m
+Merge: 91b5511 ef472f3
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sun Sep 20 14:58:44 2026 +0530
+
+    Merge pull request #5 from Deepgit07-crypto/feature/week4
+    
+    Add Week 5 assignment and practice solutions
+
+[33mcommit ef472f3f06ccff44f8f2ea2594d6bfdb4f4eb498[m[33m ([m[1;31morigin/feature/week5[m[33m, [m[1;31morigin/feature/week4[m[33m, [m[1;32mfeature/week4[m[33m)[m
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sun Sep 20 14:52:56 2026 +0530
+
+    Add Week 5 assignment and practice solutions
+
+[33mcommit 91b5511f3c0762355b7549e991244755e4e7c471[m
+Merge: fb401f2 ace26fe
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sun Sep 20 13:36:42 2026 +0530
+
+    Merge pull request #4 from Deepgit07-crypto/feature/week4
+    
+    Add Week4 assignments and practice problems
+
+[33mcommit ace26fe88becead8d197909dd9ef2080989d50a6[m
+Merge: ca3df94 fb401f2
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sun Sep 20 13:36:26 2026 +0530
+
+    Merge branch 'main' into feature/week4
+
+[33mcommit ca3df948dd3f066f7b735dc96d0368a9b586767b[m
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sun Sep 20 13:24:27 2026 +0530
+
+    Add Week4 assignments and practice problems
+
+[33mcommit fb401f2f481ffbef5d85a5a9a29f6fea5618b956[m
+Merge: 2278ec4 5ec8b62
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sat Sep 19 22:12:26 2026 +0530
+
+    Merge pull request #2 from Deepgit07-crypto/feature/week2-organization
+    
+    Organize Week2 practice and assignment problems
+
+[33mcommit 5ec8b629a169dcb84e5c46239f87ad4645cd59f4[m[33m ([m[1;31morigin/feature/week2-organization[m[33m, [m[1;32mfeature/week2-organization[m[33m)[m
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sat Sep 19 21:57:59 2026 +0530
+
+    Organize Week2 practice and assignment problems
+
+[33mcommit 2278ec43d0f0f8f1570fe9993e95dbedb7ed5dfe[m
+Merge: 128860b 8c8a938
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sat Sep 19 21:07:17 2026 +0530
+
+    Merge pull request #1 from Deepgit07-crypto/week1
+    
+    Update README.md
+
+[33mcommit 8c8a938cf5e6fdc2539aac0ea488d5c1b08be2eb[m
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sat Sep 19 21:02:38 2026 +0530
+
+    Update README.md
+
+[33mcommit 128860b252207e98f7df63fbf88952712053691b[m[33m ([m[1;31morigin/feature/week1-organization[m[33m, [m[1;32mfeature/week1-organization[m[33m)[m
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Sat Sep 19 16:31:46 2026 +0530
+
+    Add Week1 practice and assignment problems
+
+[33mcommit 7ec61ee22760ac52e0b716079a690238770e2367[m
+Author: Deepgit07-crypto <deepjyotipal584@gmail.com>
+Date:   Wed Aug 26 16:53:46 2026 +0530
+
+    Initial commit
